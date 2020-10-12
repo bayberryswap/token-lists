@@ -1,6 +1,6 @@
 {
   "name": "BayberrySwap",
-  "logoURI": "https://github.com/bayberryswap/token-lists/raw/master/bayberry.png",
+  "logoURI": "https://raw.githubusercontent.com/bayberryswap/token-lists/main/bayberry.png",
   "keywords": ["Defi", "bayberry", "curated"],
   "tags": {
     "defi": {
@@ -16,7 +16,7 @@
       "symbol": "BAY",
       "name": "Bayberry Token",
       "decimals": 18,
-      "logoURI":"https://github.com/bayberryswap/token-lists/raw/master/bayberry.png",
+      "logoURI":"https://raw.githubusercontent.com/bayberryswap/token-lists/main/bayberry.png",
       "tags": ["defi"]
     },
     {
